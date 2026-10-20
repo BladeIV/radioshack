@@ -9,6 +9,7 @@ Turn the dial, hear the static, and lock onto live stations from 240 countries.
 ![Textual](https://img.shields.io/badge/built%20with-Textual-ffbf47?style=flat-square&labelColor=15110d)
 ![mpv](https://img.shields.io/badge/audio-mpv-ffbf47?style=flat-square&labelColor=15110d)
 ![Platforms](https://img.shields.io/badge/runs%20on-Windows%20%7C%20macOS%20%7C%20Linux-ffbf47?style=flat-square&labelColor=15110d)
+![License](https://img.shields.io/badge/license-MIT-ffbf47?style=flat-square&labelColor=15110d)
 
 <img src="docs/radio.svg" alt="Radio Shack playing Ukhozi FM from South Africa, with the FM dial, preset buttons and signal meter" width="100%">
 
@@ -117,6 +118,10 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 - 📚 **[Radio Browser](https://www.radio-browser.info)** provides the free, open station directory behind every station on the dial.
 - 🖥️ **[Textual](https://textual.textualize.io)** powers the terminal UI.
 - 🔊 **[mpv](https://mpv.io)** does the actual listening.
+
+## License
+
+[MIT](LICENSE) © 2026 HoboWaRRioR. You're free to use it, fork it and make your own radio.
 
 <div align="center">
 <br>
